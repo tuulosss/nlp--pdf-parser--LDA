@@ -1,0 +1,40 @@
+Topic 0: 19, resnet, inception, performance, edge, v2, time, cloud, ai, vgg
+Articles:
+  Waranugraha and Suryanegara - 2020 - The Development of IoT-Smart Basket Performance Comparison between Edge Computing and Cloud Computi.pdf
+  Suo et al. - 2022 - Keep Clear of the Edges  An Empirical Study of Artificial Intelligence Workload Performance and Res.pdf
+  Hao et al. - 2023 - Scenario-Based AI Benchmark Evaluation of Distributed CloudEdge Computing Systems.pdf
+  Abedi and Pourkiani - 2020 - Resource Allocation in Combined Fog-Cloud Scenarios by Using Artificial Intelligence.pdf
+
+Topic 1: edge, ai, data, model, pp, ieee, computing, cloud, vol, learning
+Articles:
+  McEnroe et al. - 2022 - A Survey on the Convergence of Edge Computing and AI for UAVs Opportunities and Challenges.pdf
+  Duan et al. - 2023 - Distributed Artificial Intelligence Empowered by End-Edge-Cloud Computing A Survey.pdf
+  Chang et al. - 2021 - A Survey of Recent Advances in Edge-Computing-Powered Artificial Intelligence of Things.pdf
+
+Topic 2: ﬁnite, cen, allocates, 1277, beneﬁcial, boosting, 1584, expose, inst, rity
+Articles:
+  (None)
+
+Topic 3: edge, computing, cloud, data, ai, time, iot, applications, based, processing
+Articles:
+  Sharan et al. - 2022 - A Review on Edge-Computing Challenges in Security and Privacy.pdf
+  Andriulo et al. - 2024 - Edge Computing and Cloud Computing for Internet of Things A Review.pdf
+  Cherukuri - Edge Computing vs. Cloud Computing A Comparative Analysis for Real-Time AI Applications.pdf
+  Er-Rahmani et al. - 2026 - Advancements and Challenges in Cloud Computing, Edge Computing and Edge-Cloud Computing for IoT A C.pdf
+  Adeniyi et al. - 2023 - Application of Machine Learning Algorithm in Cloud-to-edge Computing Analysis and Limitations.pdf
+  Ficili et al. - 2025 - From Sensors to Data Intelligence Leveraging IoT, Cloud, and Edge Computing with AI.pdf
+  Prangon and Wu - 2024 - AI and Computing Horizons Cloud and Edge in the Modern Era.pdf
+  Ravi Chandra Thota - 2024 - Optimizing edge computing and AI for low-latency cloud workloads.pdf
+  Hemmati et al. - 2024 - Edge artificial intelligence for big data a systematic review.pdf
+  Trigka and Dritsas - 2025 - Edge and Cloud Computing in Smart Cities.pdf
+  Vijayaraj et al. - 2025 - A Comprehensive Analysis of Cloud-Edge-IoT Collaboration for Scalable and Instantaneous Uses.pdf
+  K et al. - 2025 - Edge Computing The Future Era of Cloud Computing-A Review.pdf
+  Ong et al. - 2023 - Comparison of Cloud Computing and TinyML Methods for Brain-Computer Interface in Motor Imagery Probl.pdf
+  Polamarasetti et al. - 2026 - AI-Powered Edge Computing Enhancing Cloud-Native AI Applications.pdf
+
+Topic 4: al, et, edge, pp, computing, learning, data, proposed, cloud, cc
+Articles:
+  Su et al. - 2022 - AI on the edge a comprehensive review.pdf
+  Asim et al. - 2020 - A Review on Computational Intelligence Techniques in Cloud and Edge Computing.pdf
+
+

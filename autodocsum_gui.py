@@ -60,11 +60,9 @@ def lda_analysis_on_folder(folder_path, n_topics=5):
     # For latest pyLDAvis, need to provide vocab and term_frequency explicitly
     vocab = vect.get_feature_names_out()
     term_frequency = np.asarray(dtm.sum(axis=0)).flatten()
+    # Fallback for pyLDAvis versions without sklearn module
     vis_data = pyLDAvis.prepare(
-        model=lda,
-        dtm=dtm,
-        vocab=vocab,
-        term_frequency=term_frequency
+        lda, dtm, vect
     )
     html_path = os.path.abspath('lda_gui_vis.html')
     pyLDAvis.save_html(vis_data, html_path)
